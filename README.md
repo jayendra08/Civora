@@ -8,7 +8,7 @@ This project demonstrates how **blockchain immutability** can be used for transp
 
 ## 🧠 Project Description
 
-The **Jayendra Opinion Contract** is a simple Solidity-based project that allows anyone to:
+The **Civora Opinion Contract** is a simple Solidity-based project that allows anyone to:
 
 - Share their opinion with the world.  
 - Store it permanently on-chain (no edits, no deletions).  
