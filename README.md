@@ -1,5 +1,5 @@
-# jayendra
-# 🗳️ Jayendra – Immutable Public Opinion Contract
+
+# 🗳️ Civora – Immutable Public Opinion Contract
 
 A **decentralized smart contract** built on **Celo Sepolia Testnet**, designed to collect and preserve **public opinions permanently** on the blockchain.  
 This project demonstrates how **blockchain immutability** can be used for transparency, trust, and open participation.
